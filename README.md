@@ -1,6 +1,6 @@
 # Kernel Smoothers
 Spring 2019 AME-70790 Final Project
-Nicholas Geneva (ngeneva@nd.edu)
+Nicholas Geneva (ngeneva at nd.edu, [@NickGeneva](https://twitter.com/NickGeneva))
 
 Reference: Wand, M. P., & Jones, M. C. (1994). Kernel smoothing. Chapman and Hall/CRC.
 ___
