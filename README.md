@@ -15,7 +15,7 @@ Click on the following links to view each notebook:
 6. [06_local_quadratic_regression.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/06_local_quadratic_regression.ipynb)
 7. [07_nadaraya_watson_regression.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/07_nadaraya_watson_regression.ipynb)
 8. [08_multivariate_regression.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/08_multivariate_regression.ipynb)
-
+8. [09_scottish_hill_races.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/09_scottish_hill_races.ipynb)
 
 #### Note:
 If the Jupyter notebooks do not show on github you can view the rendered version at [nbviewer.org](https://nbviewer.jupyter.org/). Simply paste the respective notebook url into the prompt and it will be executed.
