@@ -17,5 +17,7 @@ Click on the following links to view each notebook:
 8. [08_multivariate_regression.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/08_multivariate_regression.ipynb)
 8. [09_scottish_hill_races.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/09_scottish_hill_races.ipynb)
 
+![multivariate_regression](figs/08_multivariate_regression.png)
+
 #### Note:
 If the Jupyter notebooks do not show on github you can view the rendered version at [nbviewer.org](https://nbviewer.jupyter.org/). Simply paste the respective notebook url into the prompt and it will be executed.
