@@ -5,7 +5,6 @@ Nicholas Geneva (ngeneva at nd.edu, [@NickGeneva](https://twitter.com/NickGeneva
 Reference: Wand, M. P., & Jones, M. C. (1994). Kernel smoothing. Chapman and Hall/CRC.
 ___
 ![multivariate_regression](figs/08_multivariate_regression.png)
-Image from notebook 8.
 ___
 Various demo files written in python to illustrate the fundementials of kernel smoothers and kernel methods. This files were written as a part of class final project in Spring 2019.
 
@@ -18,9 +17,7 @@ Click on the following links to view each notebook:
 6. [06_local_quadratic_regression.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/06_local_quadratic_regression.ipynb)
 7. [07_nadaraya_watson_regression.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/07_nadaraya_watson_regression.ipynb)
 8. [08_multivariate_regression.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/08_multivariate_regression.ipynb)
-8. [09_scottish_hill_races.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/09_scottish_hill_races.ipynb)
-
-
+9. [09_scottish_hill_races.ipynb](https://nbviewer.jupyter.org/github/AbsoluteStratos/kernel_smoothers/blob/master/09_scottish_hill_races.ipynb)
 
 #### Note:
 If the Jupyter notebooks do not show on github you can view the rendered version at [nbviewer.org](https://nbviewer.jupyter.org/). Simply paste the respective notebook url into the prompt and it will be executed.
